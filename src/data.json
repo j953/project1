@@ -1,0 +1,89 @@
+{
+    "profiles":[
+        {
+            "details":{
+                "name":"Jyothirmai.B",
+                "email":"asalucheppanu@gmail.com",
+                "mobile":"+91 9876543217"
+            },
+        "education":[
+                {
+                    "degree": "ICSE",
+                    "percentage": "87",
+                    "institute":"Loyola Public School"
+                },
+                {
+                    "degree": "Intermediate-(M.P.C)",
+                    "percentage": "97",
+                    "institute":"Narayana Junior College"
+                },
+                {
+                    "degree": "B-Tech-(C.S.E)",
+                    "percentage": "86",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming languages",
+                    "values":["C","C++","Java","Python","ADS"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","Java Script"]
+                },
+                {
+                    "type":"Frameworks and libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"Operating System's",
+                    "values":["Windows","Linux","Mac"]
+                }
+            ]
+        },
+    
+    {
+        "details":{
+            "name":"HimaSri.K",
+            "email":"aishshongchina@gmail.com",
+            "mobile":"+91 9876543298"
+            },
+    "education":[
+            {
+                "degree": "S.S.C",
+                "percentage": "97",
+                "institute":"Bhasyam"
+            },
+            {
+                "degree": "Intermediate-(M.P.C)",
+                "percentage": "95",
+                "institute":"Sri Chaitanya Junior College"
+            },
+            {
+                "degree": "B-Tech-(C.S.E)",
+                "percentage": "85",
+                "institute":"VVIT"
+            }
+        ],
+        "skills":[
+            {
+                "type":"Programming languages",
+                "values":["C","C++","Java","Python","ADS"]
+            },
+            {
+                "type":"Web Technologies",
+                "values":["HTML","CSS","Java Script"]
+            },
+            {
+                "type":"Frameworks and libraries",
+                "values":["ReactJS"]
+            },
+            {
+                "type":"Operating System's",
+                "values":["Windows","Linux","Mac"]
+            }
+        ]
+    }
+    ]
+}
